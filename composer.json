@@ -1,0 +1,17 @@
+{
+    "name": "jardel/projeto",
+    "description": "Gerando um projeto",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jardel\\Projeto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jardel Santos",
+            "email": "jardelsilvasantos@hotmail.com"
+        }
+    ],
+    "require": {}
+}
